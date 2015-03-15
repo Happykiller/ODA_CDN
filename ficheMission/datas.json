@@ -1,0 +1,17 @@
+myJsonMethod({
+    "i8n" : {
+        "formCreateFicheMission" : {
+            "fr" : {
+                "submit" : "Soumettre"
+            },
+            "en" : {
+                "submit" : "Submit"
+            }
+        }
+    },
+    "pageDesc" : {
+        "formCreateFicheMission" : [
+            {"id" : "submit","type" : "button"}
+        ]
+    }
+})
