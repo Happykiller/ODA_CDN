@@ -1,4 +1,4 @@
-AuthName "Page d'administration protégée"
+AuthName "Private"
 AuthType Basic
 AuthUserFile "D:\Travail\APP\ODA_CDN\src\private\.htpasswd"
 Require valid-user
